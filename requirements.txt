@@ -1,3 +1,3 @@
-strimlist
+streamlit
 pandas
 scikit-learn
